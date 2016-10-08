@@ -25,7 +25,8 @@ Cuba.define do
           a {
             flex: none;
             color: white;
-            background-color: #E2674A;
+            /*background-color: #E2674A;*/
+             background-color: #7ED321; 
             padding: 24px 36px;
             display: inline-block;
             border-radius: 3px;
